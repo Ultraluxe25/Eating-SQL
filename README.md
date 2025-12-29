@@ -1,5 +1,5 @@
-# Learning SQL
+# Eating SQL
 
-[SQL Тренажер. Бесконечное приключение 00. Интро](https://stepik.org/course/130079/info)
+![sql](/images/elephant.jpg)
 
-[Марафон данных: первое знакомство с SQL и Python](https://stepik.org/course/105359/info)
+### Courses and books that I "Eat" to become strong in tasks connected to DB and SQL.
